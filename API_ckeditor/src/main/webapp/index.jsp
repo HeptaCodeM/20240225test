@@ -13,6 +13,7 @@
 <body>
 	<div class="container" style="margin: 200px auto; ">
 	<a href="./boardList.do">게시판으로 이동</a>
+	<h1> 류종윤 수정</h1>
 	</div>
 </body>
 </html>
